@@ -5,6 +5,6 @@ using namespace std;
 
 int main(){
     setlocale(LC_ALL, "Portuguese");
-    cout<<"Olá¡ mundo";
+    cout<<"OlÃ¡ mundo2";
     return 0;
 }
